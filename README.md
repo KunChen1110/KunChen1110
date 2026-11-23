@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Kun Chen 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=26&amp;duration=2500&amp;pause=1500&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=Hi%2C+I%27m+Kun+Chen." alt="Hi, I'm Kun Chen" />
 
 **Computer Science @ University of Nottingham Ningbo China**<br />
 Building useful AI products and studying how to make agent workflows more reliable.
