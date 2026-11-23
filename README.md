@@ -5,6 +5,7 @@
 <br />
 
 <div align="center">
+  <a href="https://kunchen1110.github.io/KunChen1110/">Personal homepage</a> &nbsp;·&nbsp;
   <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
   <a href="#how-i-build">How I build</a> &nbsp;·&nbsp;
   <a href="#beyond-ai">Beyond AI</a>
