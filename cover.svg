@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Kun Chen — AI systems and product engineering</title>
+  <desc id="desc">A dark terminal-inspired banner with an abstract network of connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a101c"/><stop offset="1" stop-color="#111d2d"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#82aaff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7291ad" stroke-opacity=".10"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="16" fill="url(#grid)"/>
+  <path d="M0 48H1200" stroke="#90b5cb" stroke-opacity=".18"/>
+  <circle cx="28" cy="24" r="5" fill="#fb7185"/><circle cx="46" cy="24" r="5" fill="#fbbf24"/><circle cx="64" cy="24" r="5" fill="#5eead4"/>
+  <text x="90" y="29" fill="#859bad" font-family="monospace" font-size="13" letter-spacing="1.5">KUN@AI-SYSTEMS:~</text>
+  <text x="70" y="111" fill="#5eead4" font-family="monospace" font-size="15" letter-spacing="3">// BUILD · EVALUATE · ITERATE</text>
+  <text x="66" y="192" fill="#f1f7fb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Kun Chen<tspan fill="#5eead4">.</tspan></text>
+  <text x="70" y="235" fill="#c0d3df" font-family="monospace" font-size="18" letter-spacing="1">AI SYSTEMS &amp; PRODUCT ENGINEERING</text>
+  <path d="M70 270H380" stroke="url(#line)" stroke-width="2"/>
+  <text x="70" y="310" fill="#829aad" font-family="monospace" font-size="14">from idea <tspan fill="#5eead4">→</tspan> execution <tspan fill="#5eead4">→</tspan> evidence</text>
+  <g fill="none" stroke="#65d8d5" stroke-opacity=".48" stroke-width="1.5">
+    <path d="M755 92L847 145 943 101 1045 153 1124 112M755 92L731 210 821 264 847 145 925 211 943 101M821 264L930 298 925 211 1045 153 1057 270 1124 112M930 298L1057 270 1144 315M925 211L1057 270"/>
+    <circle cx="925" cy="211" r="67" stroke-opacity=".2"/><circle cx="925" cy="211" r="98" stroke-opacity=".12"/>
+  </g>
+  <g fill="#79e6d6"><circle cx="755" cy="92" r="4"/><circle cx="847" cy="145" r="5"/><circle cx="943" cy="101" r="4"/><circle cx="1045" cy="153" r="5"/><circle cx="1124" cy="112" r="4"/><circle cx="731" cy="210" r="4"/><circle cx="821" cy="264" r="5"/><circle cx="925" cy="211" r="7"/><circle cx="930" cy="298" r="4"/><circle cx="1057" cy="270" r="5"/><circle cx="1144" cy="315" r="4"/></g>
+  <text x="982" y="344" fill="#829aad" font-family="monospace" font-size="12" letter-spacing="2">SYSTEMS / 01</text>
+</svg>
