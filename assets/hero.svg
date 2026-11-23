@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+<title id="t">Kun Chen — systems that earn trust</title><desc id="d">Dark editorial cover with a glowing system orbit and software workflow.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset=".6" stop-color="#111a2b"/><stop offset="1" stop-color="#1c1230"/></linearGradient><radialGradient id="glow"><stop stop-color="#7856ff" stop-opacity=".35"/><stop offset="1" stop-color="#7856ff" stop-opacity="0"/></radialGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#76f7db"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#c8daff" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="520" rx="24" fill="url(#bg)"/><rect width="1200" height="520" rx="24" fill="url(#grid)"/><circle cx="942" cy="230" r="300" fill="url(#glow)"/>
+<path d="M0 58H1200M0 442H1200" stroke="#b5bcd8" stroke-opacity=".18"/>
+<g font-family="monospace" font-size="14" letter-spacing="2"><text x="48" y="36" fill="#75eed7">KC / 01</text><text x="910" y="36" fill="#9aa6c5">SYSTEMS PORTFOLIO · 2026</text></g>
+<rect x="42" y="94" width="212" height="34" rx="17" fill="#173134" stroke="#60d8c6" stroke-opacity=".55"/><circle cx="61" cy="111" r="4" fill="#76f7db"/><text x="76" y="116" fill="#a9f6e7" font-family="monospace" font-size="12" letter-spacing="1">BUILDING IN PUBLIC</text>
+<text x="42" y="216" fill="#f2f5ff" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="700" letter-spacing="-5">Kun Chen<tspan fill="#85f0de">.</tspan></text>
+<text x="47" y="278" fill="#c7cfe4" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" letter-spacing="-1">Systems that earn trust.</text>
+<text x="48" y="326" fill="#9da9c2" font-family="monospace" font-size="16">AI ENGINEERING  /  PRODUCT THINKING  /  EVALUATION</text>
+<path d="M48 363H501" stroke="url(#accent)" stroke-width="2"/>
+<text x="48" y="405" fill="#b3bfd5" font-family="monospace" font-size="14">I build, test, and refine AI products around real needs.</text>
+<g transform="translate(883 250)" fill="none">
+<circle r="158" stroke="#8d9bc0" stroke-opacity=".18"/><circle r="126" stroke="#9e87ef" stroke-opacity=".35"/><circle r="87" stroke="#85f0de" stroke-opacity=".27"/><circle r="46" stroke="#85f0de" stroke-opacity=".6"/>
+<path d="M-156 -18L-90 -73 16 -126 118 -45 156 34 56 115 -53 113 -133 46Z" stroke="#9ad9e4" stroke-opacity=".45"/><path d="M-90 -73L-53 113M16 -126L56 115M118 -45L-133 46" stroke="#ac98f4" stroke-opacity=".3"/>
+<circle r="14" fill="#90f4df"/><circle r="30" stroke="#90f4df" stroke-opacity=".35"/>
+<g fill="#ad9bfa"><circle cx="-90" cy="-73" r="6"/><circle cx="16" cy="-126" r="6"/><circle cx="118" cy="-45" r="6"/><circle cx="156" cy="34" r="6"/><circle cx="56" cy="115" r="6"/><circle cx="-53" cy="113" r="6"/><circle cx="-133" cy="46" r="6"/><circle cx="-156" cy="-18" r="6"/></g>
+<path d="M-32 0H32M0 -32V32" stroke="#0b1423" stroke-width="3"/>
+</g>
+<g font-family="monospace" font-size="12" letter-spacing="1"><text x="47" y="483" fill="#88a89f">01 / BUILD</text><text x="240" y="483" fill="#9da0c9">02 / VERIFY</text><text x="444" y="483" fill="#a58fbf">03 / IMPROVE</text><text x="949" y="483" fill="#9aa6c5">NINGBO · NOTTINGHAM</text></g>
+</svg>
